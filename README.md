@@ -1,4 +1,3 @@
 # testvs
 
 Prueba de Sergio
-.
